@@ -26,7 +26,7 @@ SECRET_KEY = 'ew*-pctpv^yji03%(v#u-)sk_ib86e)r#eu$6db735e276yay4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['e-commerce-local-tramore.c9users.io']
+ALLOWED_HOSTS = ['e-commerce-local-cloned-tramore.c9users.io' ]
 
 
 # Application definition
